@@ -7,7 +7,7 @@
  <a href="#tecnologias">Tecnologias</a> | 
  <a href="#roadmap">Pré-Requisitos</a> | 
  <a href="#contribuicao">Contribuição</a> | 
- <a href="#licenc-a">Licença</a> 
+ <a href="#licenc-a">Licença</a>
 </p>
 
 <h2 align="left">💻 Projeto</h2>
@@ -29,16 +29,17 @@
 
 
 <h2 align="left">✅ Features</h2>
+
 - [x] Cadastro de novos usuários utilizando nome e e-mail.
 - [x] Validação de cadastro de usuários, impedindo que um usuário se cadastre com e-mail já previamente cadastrado
 - [x] Cadastro de enquete utilizando
 - [x] Criação e Envio de E-mail com Enquete e Usuário
 - [x] Cálculo de NPS
  
-### Pré Requisitos
+<h2 align="left">✅ Pré Requisitos </h2>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Insomnia](https://insomnia.rest/download/), [BeeKeeper](https://www.beekeeperstudio.io/), 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Insomnia](https://insomnia.rest/download/), [BeeKeeper](https://www.beekeeperstudio.io/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando a Aplicação
@@ -64,13 +65,15 @@ $ npm run dev
 
 # Utilizar Insomnia para teste de métodos GET e POST. 
 
-# Utilizar Beekeeper para visualização de dados para serem preenchidos no corpo da requisição dos métodos POST no Insomnia. Abrir o arquivo em ./database/database.sqlite
+# Utilizar Beekeeper para visualização de dados para serem preenchidos no corpo da requisição dos métodos POST no Insomnia.
+# Abrir o arquivo em ./database/database.sqlite
 
 # Visualização do e-mail com Ethereal via link gerado no console após execução do Método POST em SendEmail no Insomnia.
 
 ```
 
-
+### 📃 Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/luizfelipeb/nlw4-nodejs/blob/main/LICENSE.md) para mais detalhes.
 
 
 
