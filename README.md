@@ -5,17 +5,18 @@
 <p align="center">
  <a href="#projeto">Projeto</a> |
  <a href="#tecnologias">Tecnologias</a> | 
- <a href="#roadmap">Pré-Requisitos</a> | 
- <a href="#contribuicao">Contribuição</a> | 
- <a href="#licenc-a">Licença</a>
+ <a href="#features">Contribuição</a> | 
+ <a href="#prerequisitos">Pré-Requisitos</a> | 
+ <a href="#licenca">Licença</a>
 </p>
 
-<h2 align="left">💻 Projeto</h2>
+<h2 align="left" id="projeto">💻 Projeto</h2>
 
 Este é um projeto desenvolvido com foco em Node.js durante a Next Level Week, realizada pela [Rocketseat](https://github.com/Rocketseat) durante os dias 22 a 26 de Fevereiro de 2021.
 
-<h2 align="left">🛠 Tecnologias</h2>
-<p>As seguintes ferramentas foram usadas na construção do projeto:</p>
+<h2 align="left" id="tecnologias">🛠 Tecnologias</h2>
+
+As seguintes ferramentas foram usadas na construção do projeto:
 
 - [TypeScript](https://nodejs.org/en/)
 - [Node.js](https://nodejs.org/en/)
@@ -29,7 +30,7 @@ Este é um projeto desenvolvido com foco em Node.js durante a Next Level Week, r
 - [Ethereal](https://ethereal.email/)
 
 
-<h2 align="left">✅ Features</h2>
+<h2 align="left" id="features">✅ Features</h2>
 
 - [x] Cadastro de novos usuários utilizando nome e e-mail.
 - [x] Validação de cadastro de usuários, impedindo que um usuário se cadastre com e-mail já previamente cadastrado
@@ -37,7 +38,7 @@ Este é um projeto desenvolvido com foco em Node.js durante a Next Level Week, r
 - [x] Criação e Envio de E-mail com Enquete e Usuário
 - [x] Cálculo de NPS
  
-<h2 align="left">✅ Pré Requisitos </h2>
+<h2 align="left" id="prerequisitos">✅ Pré Requisitos </h2>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Insomnia](https://insomnia.rest/download/), [BeeKeeper](https://www.beekeeperstudio.io/). 
@@ -73,6 +74,7 @@ $ npm run dev
 
 ```
 
-### 📃Licença
+<h2 align="left" id="licenca"> 📃Licença </h2>
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/luizfelipeb/nlw4-nodejs/blob/main/LICENSE.md) para mais detalhes.
 
