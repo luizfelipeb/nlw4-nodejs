@@ -16,8 +16,8 @@
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [TypeScript]
-- [Node.js]
+- [TypeScript](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/)
 - [TypeORM]
 - [SQLite]
 - [Express]
