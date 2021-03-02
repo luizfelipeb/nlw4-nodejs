@@ -11,7 +11,8 @@
 </p>
 
 <h2 align="left">💻 Projeto</h2>
-Este é um projeto desenvolvido com foco em Node.js durante a Next Level Week, realizada pela [@Rocketseat](https://github.com/Rocketseat) durante os dias 22 a 26 de Fevereiro de 2021.
+
+Este é um projeto desenvolvido com foco em Node.js durante a Next Level Week, realizada pela [Rocketseat](https://github.com/Rocketseat) durante os dias 22 a 26 de Fevereiro de 2021.
 
 <h2 align="left">🛠 Tecnologias</h2>
 <p>As seguintes ferramentas foram usadas na construção do projeto:</p>
