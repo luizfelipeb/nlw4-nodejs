@@ -13,33 +13,35 @@
 <h2 align="left">💻 Projeto</h2>
 <p>Este é um projeto desenvolvido com foco em Node.js durante a Next Level Week, realizada pela @Rocketseat durante os dias 22 a 26 de Fevereiro de 2021.</p>
 
-### 🛠 Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
+<h2 align="left">🛠 Tecnologias</h2>
+<p>As seguintes ferramentas foram usadas na construção do projeto:</p>
 
 - [TypeScript](https://nodejs.org/en/)
 - [Node.js](https://nodejs.org/en/)
-- [TypeORM]
-- [SQLite]
-- [Express]
-- [Yup]
-- [Jest]
+- [TypeORM](https://typeorm.io/#/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Express](https://expressjs.com/pt-br/)
+- [Yup](https://www.npmjs.com/package/yup?activeTab=readme#api)
+- [Handlebars](https://handlebarsjs.com/)
+- [Jest](https://jestjs.io/)
+- [Nodemailer](https://nodemailer.com/about/)
+- [Ethereal](https://ethereal.email/)
 
 
-
-<h2 align="left">✅Features</h2>
+<h2 align="left">✅ Features</h2>
 - [x] Cadastro de novos usuários utilizando nome e e-mail.
 - [x] Validação de cadastro de usuários, impedindo que um usuário se cadastre com e-mail já previamente cadastrado
 - [x] Cadastro de enquete utilizando
 - [x] Criação e Envio de E-mail com Enquete e Usuário
-
-
-<h2 align="left">Pré Requisitos</h2>
+- [x] Cálculo de NPS
+ 
+### Pré Requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Insomnia](https://insomnia.rest/download/), [BeeKeeper](https://www.beekeeperstudio.io/), 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back-End
+### 🎲 Rodando a Aplicação
 
 ```bash
 # Clone este repositório
@@ -55,6 +57,17 @@ $ npm install
 $ npm run dev
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+
+# Banco já com registros para envio e visualização dos e-mails
+
+# Arquivo Insomnia.json para teste da API na raíz do projeto. Importar para o Insomnia
+
+# Utilizar Insomnia para teste de métodos GET e POST. 
+
+# Utilizar Beekeeper para visualização de dados para serem preenchidos no corpo da requisição dos métodos POST no Insomnia. Abrir o arquivo em ./database/database.sqlite
+
+# Visualização do e-mail com Ethereal via link gerado no console após execução do Método POST em SendEmail no Insomnia.
+
 ```
 
 
