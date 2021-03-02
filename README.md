@@ -5,7 +5,7 @@
 <p align="center">
  <a href="#projeto">Projeto</a> |
  <a href="#tecnologias">Tecnologias</a> | 
- <a href="#features">Contribuição</a> | 
+ <a href="#features">Features</a> | 
  <a href="#prerequisitos">Pré-Requisitos</a> | 
  <a href="#licenca">Licença</a>
 </p>
