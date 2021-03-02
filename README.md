@@ -10,20 +10,21 @@
  <a href="#licenc-a">Licença</a> 
 </p>
 
-h2 align="left">💻 Projeto</h2>
-<p>Com o foco em </p>
+<h2 align="left">💻 Projeto</h2>
 <p>Este é um projeto desenvolvido com foco em Node.js durante a Next Level Week, realizada pela @Rocketseat durante os dias 22 a 26 de Fevereiro de 2021.</p>
 
-h2 align="left">🚀 Tecnologias </h2>
-<p>Este projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
-<p>
-    <a href="">TypeScript
-    <a href="">Node.js</a>
-    <a href="">TypeORM</a>
-    <a href="">SQLite</a>
-    <a href="">Express</a>
-    <a href="">Yup</a>
-</p>
+### 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [TypeScript]
+- [Node.js]
+- [TypeORM]
+- [SQLite]
+- [Express]
+- [Yup]
+- [Jest]
+
+
 
 <h2 align="left">✅Features</h2>
 - [x] Cadastro de novos usuários utilizando nome e e-mail.
@@ -55,6 +56,7 @@ $ npm run dev
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
+
 
 
 
