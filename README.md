@@ -72,9 +72,6 @@ $ npm run dev
 
 ```
 
-### 📃 Licença
+### 📃Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/luizfelipeb/nlw4-nodejs/blob/main/LICENSE.md) para mais detalhes.
-
-
-
 
