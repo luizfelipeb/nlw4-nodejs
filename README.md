@@ -13,6 +13,10 @@
 <h2 align="left" id="projeto">💻 Projeto</h2>
 
 Este é um projeto desenvolvido com foco em Node.js durante a Next Level Week, realizada pela [Rocketseat](https://github.com/Rocketseat) durante os dias 22 a 26 de Fevereiro de 2021.
+</br>
+
+Objetivo do projeto era a criação de uma API funcional para cadastro de usuários no banco de dados, criação de enquetes e envio das enquetes para os usuário através do e-mail.
+
 
 <h2 align="left" id="tecnologias">🛠 Tecnologias</h2>
 
@@ -34,7 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [x] Cadastro de novos usuários utilizando nome e e-mail.
 - [x] Validação de cadastro de usuários, impedindo que um usuário se cadastre com e-mail já previamente cadastrado
-- [x] Cadastro de enquete utilizando
+- [x] Cadastro de enquete
 - [x] Criação e Envio de E-mail com Enquete e Usuário
 - [x] Cálculo de NPS
  
